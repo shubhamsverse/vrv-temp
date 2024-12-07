@@ -32,13 +32,13 @@ Ensure that you have the following installed:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/user-management-dashboard.git
+   git clone https://github.com/shubhamsverse/vrv-temp.git
 
 2. **Navigate to Project Folder**: 
    Change into the project directory**:
 
    ```bash
-   cd user-management-dashboard
+   cd vrv-temp
 
 3. **Install Dependencies**: 
    Run the following command to install the necessary dependencies**:
